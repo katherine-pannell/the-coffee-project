@@ -1,6 +1,30 @@
 <template>
-  <div class="hello">
-    <h1>Testing H1</h1>
+  <div>
+    <h1>Manual Brews</h1>
+    <p>
+      Just some info on different manual brewing methods.
+      </p>
+      <h2 id="aeropress">Aeropress</h2>
+      <p>Some Aerporess info.</p>
+
+      <h3 id="brew-time">Brew time</h3>
+      <p>Info on brew time and all that goodness.</p>
+
+            <h3 id="grind-size">Grind size</h3>
+      <p>Grind size can make or break your cup.</p>
+
+                  <h3 id="water-temp">Water temperature</h3>
+      <p>Info on how much you should heat your water.</p>
+
+            <h3 id="method">Method</h3>
+      <p>To mix or not to mix is the question and even then, swirl or stir?</p>
+
+            <h2 id="v60">V60</h2>
+      <p>Some V60 info.</p>
+            <h2 id="espresso">Espresso</h2>
+      <p>Some espresso info.</p>
+            <h2 id="chemex">Aeropress</h2>
+      <p>Some Chemex info.</p>
   </div>
 </template>
 
