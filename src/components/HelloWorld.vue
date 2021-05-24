@@ -5,7 +5,7 @@
       Just some info on different manual brewing methods.
       </p>
       <h2 id="aeropress">Aeropress</h2>
-      <p>Some Aerporess info.</p>
+      <p>Some Aeropress info.</p>
 
       <h3 id="brew-time">Brew time</h3>
       <p>Info on brew time and all that goodness.</p>
